@@ -1,0 +1,31 @@
+{
+  "name": "autorent-pro-system",
+  "version": "2.0.0",
+  "description": "AutoRent Pro - Professional vehicle rental management system with advanced booking capabilities and fleet management",
+  "main": "backend/app.js",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "dev": "cd backend && npm run dev",
+    "install-backend": "cd backend && npm install",
+    "setup": "npm run install-backend"
+  },
+  "keywords": [
+    "car-rental",
+    "booking-system",
+    "mysql",
+    "nodejs",
+    "express",
+    "calendar",
+    "responsive-design"
+  ],
+  "author": "Car Rental System Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/car-rental-booking-system.git"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}
